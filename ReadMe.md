@@ -1,4 +1,4 @@
-#### 校易收-日志服务
+####日志服务
 
 ##### 项目说明
 * 提供一个公共的jar 方便集成
@@ -42,7 +42,7 @@
              
 
 * 特殊说明  本jar 自动引用第三方jar 注意使用的时候如果jar重复需要排除
-   * 校易收saas排除示列
+   * 排除示列
      *         <dependency>
                        <groupId>cn.soeasypay.log</groupId>
                        <artifactId>logs</artifactId>
